@@ -28,7 +28,7 @@ I have also worked with Python in highschool.
 ## My Stats
 
 <a href="https://github.com/daBoss02">
-  <img height="205px" width="100px" align="center" src="https://github-readme-stats.vercel.app/api?username=daBoss02&theme=cobalt&show_icons=true" alt="My GitHub stats" />
+  <img height="205px" width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=daBoss02&theme=cobalt&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/mrspecht">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daBoss02&theme=cobalt&hide=Ruby&show_icons=true&langs_count=3" alt="My 
