@@ -13,12 +13,18 @@ I have also worked with Python in highschool.
     Gaming
   </li>
   <li>
-    Driving (Dream Car in banner)
+    Driving
   </li>
   <li>
     Hanging out
   </li>
 </ul>
+
+
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=C74C27)
+![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=C74C27)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=C74C27)
+
 
 <!---
 daBoss02/daBoss02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
