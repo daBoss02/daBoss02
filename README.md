@@ -27,8 +27,14 @@ I have also worked with Python in highschool.
 
 ## My Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=daBoss02&count_private=true&theme=cobalt&showicons=true&height=150px)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daBoss02&langs_count=5&theme=cobalt)]()
+<a href="https://github.com/daBoss02">
+  <img height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=daBoss02&theme=cobalt&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/mrspecht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daBoss02&theme=cobalt&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
+
 
 
 <!---
