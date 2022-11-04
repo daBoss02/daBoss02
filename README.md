@@ -25,6 +25,10 @@ I have also worked with Python in highschool.
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=C74C27)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=C74C27)
 
+## My Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?daBoss02=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 daBoss02/daBoss02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
