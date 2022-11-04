@@ -1,4 +1,4 @@
-![Porsche 911 Carrera](assets/porscheCarrera.jpg "Porsche 911 Carrera")
+![Glowing Laptop](assets/glowLaptop.jpg "Glowing Laptop")
 
 ## About Me
 My name is Seth Vandenbos, I am 18 years old. I am currently in college at the Manitoba Institute of Trades and Technologies (MITT),
@@ -13,7 +13,7 @@ I have also worked with Python in highschool.
     Gaming
   </li>
   <li>
-    Driving
+    Driving (Dream Car in banner)
   </li>
   <li>
     Hanging out
