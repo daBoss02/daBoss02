@@ -27,7 +27,8 @@ I have also worked with Python in highschool.
 
 ## My Stats
 
-[![Seth Vandenbos's github stats](https://github-readme-stats.vercel.app/api?username=daBoss02)](https://github.com/daBoss02/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=daBoss02&count_private=true&theme=cobalt&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daBoss02&langs_count=5&theme=cobalt)]()
 
 
 <!---
