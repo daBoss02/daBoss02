@@ -27,7 +27,7 @@ I have also worked with Python in highschool.
 
 ## My Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?daBoss02=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Seth Vandenbos's github stats](https://github-readme-stats.vercel.app/api?username=daBoss02)](https://github.com/daBoss02/github-readme-stats)
 
 
 <!---
