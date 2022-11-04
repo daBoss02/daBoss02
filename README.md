@@ -27,7 +27,7 @@ I have also worked with Python in highschool.
 
 ## My Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=daBoss02&count_private=true&theme=cobalt&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=daBoss02&count_private=true&theme=cobalt&showicons=true&height=150px)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daBoss02&langs_count=5&theme=cobalt)]()
 
 
