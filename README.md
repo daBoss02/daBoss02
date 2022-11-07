@@ -23,7 +23,7 @@ I have also worked with Python in highschool.
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=75EEB2&color=E683D9)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=75EEB2&color=E683D9)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=75EEB2te&color=E683D9)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=75EEB2&color=E683D9)
 
 ## My Stats
 
