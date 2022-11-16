@@ -1,4 +1,4 @@
-![Glowing Laptop](assets/glowLaptop.jpg "Glowing Laptop")
+![JDM Cars](./assets/jdmCars.png "JDM Cars")
 
 ## About Me
 My name is Seth Vandenbos, I am 18 years old. I am currently in college at the Manitoba Institute of Trades and Technologies (MITT),
