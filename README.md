@@ -39,6 +39,8 @@ I have also previously learned, but no longer completely understand:
 
 [![Instagram](https://img.shields.io/badge/instagram-informational?style=for-the-badge&logo=instagram&logoColor=75EEB2&color=193549)](https://www.instagram.com/daboss_202/)
 
+[![Email](https://img.shields.io/badge/email-informational?style=for-the-badge&logo=email&logoColor=75EEB2&color=193549)](mailto:seth.vdbos@gmail.com)
+
 ## My Stats
 
 <a href="https://github.com/daBoss02">
