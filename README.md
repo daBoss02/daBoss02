@@ -2,7 +2,7 @@
 
 ## About Me
 My name is Seth Vandenbos, I am 18 years old. I am currently in college at the Manitoba Institute of Trades and Technologies (MITT),
-learning about web development. So far we have covered HTML and CSS as well as JavaScript. In the future I will also learn about C++.
+learning about web development. So far I have covered HTML and CSS as well as JavaScript. In the future I will also learn about C++.
 I have also worked with Python in highschool.
 ## Hobbies
 <ul>
@@ -19,6 +19,10 @@ I have also worked with Python in highschool.
     Hanging out
   </li>
 </ul>
+
+## More About Me
+
+Click [here](https://daboss02.github.io/about-me/) if you want to know more about me; or go to the [about-me](https://github.com/daBoss02/about-me) repository
 
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=75EEB2&color=E683D9)
