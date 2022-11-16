@@ -37,9 +37,9 @@ I have also previously learned, but no longer understand:
 
 ## Contact Me / Socials
 
-[![Instagram](https://img.shields.io/badge/instagram-informational?style=for-the-badge&logo=instagram&logoColor=75EEB2&color=193549)](https://www.instagram.com/daboss_202/)
 [![Email](https://img.shields.io/badge/email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=75EEB2&color=193549)](mailto:seth.vdbos@gmail.com)
-[![Phone](https://img.shields.io/badge/phone-informational?style=for-the-badge&logo=phone&logoColor=75EEB2&color=193549)](tel:+14313440423)
+
+[![Instagram](https://img.shields.io/badge/instagram-informational?style=for-the-badge&logo=instagram&logoColor=75EEB2&color=193549)](https://www.instagram.com/daboss_202/)
 
 ## My Stats
 
