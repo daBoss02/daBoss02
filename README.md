@@ -31,7 +31,9 @@ Click [here](https://daboss02.github.io/about-me/) if you want to know more abou
 ![HTML](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=75EEB2&color=E683D9)
 ![CSS](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=75EEB2&color=E683D9)
 
-I have also previously Learned ![Python](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=75EEB2&color=E683D9)
+I have also previously learned:
+
+![Python](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=75EEB2&color=E683D9)
 
 ## My Stats
 
