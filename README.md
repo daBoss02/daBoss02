@@ -35,6 +35,10 @@ I have also previously learned, but no longer completely understand:
 
 ![Python](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=75EEB2&color=E683D9)
 
+## Contact Me
+
+![Instagram](https://img.shields.io/badge/instagram-informational?style=for-the-badge&logo=instagram&logoColor=75EEB2&color=E683D9)
+
 ## My Stats
 
 <a href="https://github.com/daBoss02">
