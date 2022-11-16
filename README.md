@@ -37,8 +37,6 @@ I have also previously learned, but no longer understand:
 
 ## Contact Me / Socials
 
-![Phone](https://img.shields.io/badge/phone-1%20431%20344%200423-informational?style=for-the-badge&color=193549)
-
 [![Email](https://img.shields.io/badge/email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=75EEB2&color=193549)](mailto:seth.vdbos@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/instagram-informational?style=for-the-badge&logo=instagram&logoColor=75EEB2&color=193549)](https://www.instagram.com/daboss_202/)
