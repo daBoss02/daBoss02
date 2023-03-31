@@ -2,8 +2,7 @@
 
 ## About Me
 My name is Seth Vandenbos, I am 18 years old. I am currently in college at the Manitoba Institute of Trades and Technologies (MITT),
-learning about web development. So far I have covered HTML and CSS as well as JavaScript. In the future I will also learn about C#.
-I have also worked with Python in highschool.
+learning about web development. So far I have learned HTML and CSS as well as JavaScript and am currently learning C# and SQL Databasing in SQLServer. I have also worked with Python in highschool.
 ## Hobbies
 <ul>
   <li>
@@ -30,6 +29,8 @@ Click [here](https://daboss02.github.io/about-me/) if you want to know more abou
 ![JavaScript](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=75EEB2&color=E683D9)
 ![HTML](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=75EEB2&color=E683D9)
 ![CSS](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=75EEB2&color=E683D9)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=75EEB2&color=E683D9)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=75EEB2&color=E683D9)
 
 I have also previously learned, but no longer understand:
 
