@@ -1,8 +1,9 @@
 ![JDM Cars](./assets/myCar.jpg "Multiple JDM Cars")
 
 ## About Me
-My name is Seth Vandenbos, I am 18 years old. I am currently in college at the Manitoba Institute of Trades and Technologies (MITT),
-learning about web development. So far I have learned HTML and CSS as well as JavaScript and am currently learning C# and SQL Databasing in SQLServer. I have also worked with Python in highschool.
+Hi, my name is Seth Vandenbos. I'm a small town kid, born in 2004, who is trying his hand at Software Development. I am currently a College student at the Manitoba Institute of Trades and Technologies in Winnipeg, Manitoba. Currently I have experience in HTML, CSS, JavaScript, and C#. In high school I learned Python but as time has passed I have forgotten most of it. I have experience working with SQL in Azure Data Studio, as well as a small amount in MySQL. I enjoy working in Visual Studio and Visual Studio Code. I live on a small farm near Elm Creek, Manitoba with my family. In June I will be strating a work practicum as part of my studies, and will be graduating in August.
+
+To learn more about me click [here](https://daboss02.github.io/about-me/)
 ## Hobbies
 <ul>
   <li>
@@ -18,11 +19,6 @@ learning about web development. So far I have learned HTML and CSS as well as Ja
     Hanging out
   </li>
 </ul>
-
-## More About Me
-
-Click [here](https://daboss02.github.io/about-me/) if you want to know more about me; or go to the [about-me](https://github.com/daBoss02/about-me) repository
-
 
 ## What I Currently Understand
 
