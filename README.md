@@ -22,22 +22,22 @@ To learn more about me click [here](https://daboss02.github.io/about-me/)
 
 ## What I Currently Understand
 
-![JavaScript](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=75EEB2&color=E683D9)
-![HTML](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=75EEB2&color=E683D9)
-![CSS](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=75EEB2&color=E683D9)
-![C#](https://img.shields.io/badge/code-c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=75EEB2&color=E683D9)
-![MySQL](https://img.shields.io/badge/database-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=75EEB2&color=E683D9)
-![React](https://img.shields.io/badge/framework-React-20232A?style=for-the-badge&logo=react&logoColor=75EEB2&color=E683D9)
+![JavaScript](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=213753&color=65768F)
+![HTML](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=213753&color=65768F)
+![CSS](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=213753&color=65768F)
+![C#](https://img.shields.io/badge/code-c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=213753&color=65768F)
+![MySQL](https://img.shields.io/badge/database-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=213753&color=65768F)
+![React](https://img.shields.io/badge/framework-React-20232A?style=for-the-badge&logo=react&logoColor=213753&color=65768F)
 
 I have also previously learned, but no longer understand:
 
-![Python](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=75EEB2&color=E683D9)
+![Python](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=213753&color=65768F)
 
 ## Contact Me / Socials
 
-[![Email](https://img.shields.io/badge/email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=75EEB2&color=193549)](mailto:seth.vdbos@gmail.com)
+[![Email](https://img.shields.io/badge/email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=213753&color=193549)](mailto:seth.vdbos@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/instagram-informational?style=for-the-badge&logo=instagram&logoColor=75EEB2&color=193549)](https://www.instagram.com/daboss_202/)
+[![Instagram](https://img.shields.io/badge/instagram-informational?style=for-the-badge&logo=instagram&logoColor=213753&color=193549)](https://www.instagram.com/daboss_202/)
 
 ## My Stats
 
