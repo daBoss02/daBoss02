@@ -42,10 +42,10 @@ I have also previously learned, but no longer understand:
 ## My Stats
 
 <a href="https://github.com/daBoss02">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=daBoss02&theme=cobalt" alt="My GitHub stats" />
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=daBoss02&theme=tokyonight&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/daBoss02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daBoss02&theme=cobalt&" alt="My 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daBoss02&theme=tokyonight&show_icons=true" alt="My 
   GitHub stats"/>
 </a>
 
