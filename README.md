@@ -44,10 +44,10 @@ I have also previously learned, but no longer understand:
 <a href="https://github.com/daBoss02">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=daBoss02&theme=cobalt" alt="My GitHub stats" />
 </a>
-<!-- <a href="https://github.com/mrspecht">
+<a href="https://github.com/daBoss02">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daBoss02&theme=cobalt&" alt="My 
   GitHub stats"/>
-</a> -->
+</a>
 
 
 
