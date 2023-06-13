@@ -1,7 +1,7 @@
-![JDM Cars](./assets/myCar.jpg "Multiple JDM Cars")
+![JDM Cars](./assets/updatedCar.jpg "My Car")
 
 ## About Me
-Hi, my name is Seth Vandenbos. I'm a small town kid, born in 2004, who is trying his hand at Software Development. I am currently a College student at the Manitoba Institute of Trades and Technologies in Winnipeg, Manitoba. Currently I have experience in HTML, CSS, JavaScript, and C#. In high school I learned Python but as time has passed I have forgotten most of it. I have experience working with SQL in Azure Data Studio, as well as a small amount in MySQL. I enjoy working in Visual Studio and Visual Studio Code. I live on a small farm near Elm Creek, Manitoba with my family. In June I will be strating a work practicum as part of my studies, and will be graduating in August.
+Hi, my name is Seth Vandenbos. I'm a small town kid, born in 2004, who is trying his hand at Software Development. I am currently a College student at the Manitoba Institute of Trades and Technologies in Winnipeg, Manitoba. I have experience in HTML, CSS, JavaScript, ReactJS, and C#. In high school I learned Python but as time has passed I have forgotten most of it. I have experience working with SQL in Azure Data Studio, as well as a small amount in MySQL. I enjoy working in Visual Studio and Visual Studio Code. I live on a small farm near Elm Creek, Manitoba with my family. In June I will be strating a work practicum as part of my studies, and will be graduating in August.
 
 To learn more about me click [here](https://daboss02.github.io/about-me/)
 ## Hobbies
@@ -27,6 +27,7 @@ To learn more about me click [here](https://daboss02.github.io/about-me/)
 ![CSS](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=75EEB2&color=E683D9)
 ![C#](https://img.shields.io/badge/code-c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=75EEB2&color=E683D9)
 ![MySQL](https://img.shields.io/badge/database-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=75EEB2&color=E683D9)
+![React](https://img.shields.io/badge/framework-React-20232A?style=for-the-badge&logo=react&logoColor=75EEB2&color=E683D9)
 
 I have also previously learned, but no longer understand:
 
